@@ -27,7 +27,7 @@ export default function Login() {
             console.log('로그인')
           }}
         >
-          이메일로 로그인
+          LOGIN by Email
         </Button>
       </form>
       <SocialBtnBox />

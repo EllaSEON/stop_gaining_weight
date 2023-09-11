@@ -29,13 +29,13 @@ export default function Home() {
           className=" bg-main mt-8 px-12 py-4 rounded-lg text-xl font-bold text-white m-2"
           href="/login"
         >
-          log in
+          LOGIN
         </Link>
         <Link
           className=" bg-main mt-8 px-10 py-4 rounded-lg text-xl font-bold text-white m-2"
           href="/login"
         >
-          sign up
+          SIGN UP
         </Link>
       </div>
     </div>
