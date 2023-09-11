@@ -22,7 +22,7 @@ export default function Home() {
       <p className="mt-12 mb-20 font-bold text-2xl text-center font-mono">
         Record your weight
         <br />
-        day by day to day
+        every day
       </p>
       <div className="text-center">
         <Link
@@ -33,7 +33,7 @@ export default function Home() {
         </Link>
         <Link
           className=" bg-main mt-8 px-10 py-4 rounded-lg text-xl font-bold text-white m-2"
-          href="/login"
+          href="/signup"
         >
           SIGN UP
         </Link>
